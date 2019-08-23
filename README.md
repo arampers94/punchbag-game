@@ -1,6 +1,6 @@
 # Punchbag game
 
-Tutorial project to learn Vue.js
+Tutorial project to learn Vue.js. Click 'punch' button to damage the punching bag. When bag health reaches 0, game over. Demonstrates dynamic css, class and style bindings, conditional rendering, and event handling.
 
 ## Getting Started
 
