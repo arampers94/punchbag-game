@@ -6,10 +6,6 @@ Tutorial project to learn Vue.js
 
 Steps to get the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-
-Have yarn package manager installed.
-
 ### Installing
 
 1. Clone the repo
